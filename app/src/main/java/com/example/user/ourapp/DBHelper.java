@@ -13,6 +13,7 @@ public class DBHelper extends SQLiteOpenHelper {
     private static final String TABLE_CONTACTS="contacts"; //Константы для заголовков столбцов таблицы
     private static final String KEY_ID="id";
     private static final String KEY_NAME="name";
+
     private static final String KEY_MAIL="mail";
 
 
